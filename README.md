@@ -1,3 +1,5 @@
+# Hi! I'm Federico 👋
+
 # 💫 About Me:
 🌱 I’m currently learning: Next.js<br>💬 Ask me about: React, Javascript, HTML and CSS<br>⚡ Fun fact: I've got a boating license
 
