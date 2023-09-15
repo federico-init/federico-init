@@ -13,19 +13,20 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,nextjs,vite,firebase,git,vercel,nodejs,bootstrap,java,c,mysql,postman&perline=8)](https://skillicons.dev)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ### 📊 GitHub Stats: -->
+##
+<!-- ![](https://github-readme-stats.vercel.app/api?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=federico-init&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=federico-init&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+<!-- ### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=federico-init&theme=nord&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=federico-init&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=federico-init&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=federico-init&icon=2&color=6)](https://visitcount.itsvg.in)
