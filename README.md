@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <p align="center">A passionate Front-End Developer from Italy</p>
 
-----
+
 
 <h3 align="center">💫 About Me:</h3>
 <p align="center">🌱 I’m currently learning: Typescript<br>
