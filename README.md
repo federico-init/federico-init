@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">A passionate front-end developer from Italy</h3>
+<h3 align="center">A passionate Front-End Developer from Italy</h3>
 
 ## 💫 About Me:
 🌱 I’m currently learning: Typescript<br>💬 Ask me about: React, Javascript, HTML and CSS<br>⚡ Fun fact: I've got a boating license
@@ -10,8 +10,8 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
 
-## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,nextjs,vite,firebase,git,vercel,nodejs,bootstrap,java,c,mysql,postman&perline=8)](https://skillicons.dev)
+## 💻 Languages & Tools:
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nextjs,vite,firebase,git,vercel,java,c,postman&perline=8)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
