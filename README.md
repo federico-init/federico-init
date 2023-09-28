@@ -40,10 +40,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=150" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=150" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federico-init&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=320" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federico-init&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=320" />
   </a>
 </div>
 
