@@ -30,12 +30,22 @@
 ----
 <h4 align="center"> 📊 GitHub Stats: </h4>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
-  <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federico-init&theme=tokyonight&hide_border=false" />
-  </div>
+<!-- https://github.com/anuraghazra --> 
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federico-init&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=200" />
+  </a> -->
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=150" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federico-init&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=320" />
+  </a>
+</div>
 
 <!-- ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=federico-init&theme=nord&no-frame=false&no-bg=false&margin-w=4) -->
