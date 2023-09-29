@@ -28,7 +28,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nextjs,vite,firebase,git,vercel,java,c,postman&perline=8)](https://skillicons.dev) -->
 
 ----
-<h4 align="center"> 📊 GitHub Stats: </h4>
+<h3 align="center"> 📊 GitHub Stats: </h3>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=federico-init&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- https://github.com/anuraghazra --> 
  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
