@@ -4,7 +4,7 @@
 
 
 <h3 align="center">💫 About Me:</h3>
-<p align="center">🌱 I’m currently learning: Typescript<br>
+<p align="center">🌱 I’m currently learning: TailwindCSS<br>
 💬 Ask me about: React, Javascript, HTML and CSS<br>
 ⚡ Fun fact: I've got a boating license</p>
 
