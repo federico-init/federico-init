@@ -22,7 +22,7 @@
 <h3 align="center">💻 Languages & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,nextjs,vite,firebase,git,vercel,java,c,postman" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,nextjs,vite,firebase,git,vscode,vercel,java,c,postman" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nextjs,vite,firebase,git,vercel,java,c,postman&perline=8)](https://skillicons.dev) -->
