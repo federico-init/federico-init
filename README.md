@@ -11,11 +11,11 @@
 ----
 
 <h3 align="center"> 🌐 Connect with me:</h3>
-<span align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/federico-borrometi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</span>
+</p>
 
 ----
 
