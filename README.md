@@ -1,17 +1,17 @@
-<h1 align="left">Hi 👋, I'm Federico</h1>
-<h3 align="left">A passionate Front-End Developer from Italy</h3>
+<h1 align="center">Hi 👋, I'm Federico</h1>
+<h3 align="center">A passionate Front-End Developer from Italy</h3>
 
 
 
-<h3 align="left">💫 About Me:</h3>
-<p align="left">🌱 I’m currently learning: TailwindCSS<br>
+<h3 align="center">💫 About Me:</h3>
+<p align="center">🌱 I’m currently learning: TailwindCSS<br>
 💬 Ask me about: React, Javascript, HTML and CSS<br>
 ⚡ Fun fact: I've got a boating license</p>
 
 ----
 
-<h3 align="left"> 🌐 Connect with me:</h3>
-<span align="left">
+<h3 align="center"> 🌐 Connect with me:</h3>
+<span align="center">
   <a href="https://www.linkedin.com/in/federico-borrometi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -19,10 +19,10 @@
 
 ----
 
-<h3 align="left">💻 Languages & Tools:</h3>
-<p align="left">
+<h3 align="center">💻 Languages & Tools:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,redux,jest,html,css,sass,tailwind,nextjs,vite,firebase,git,vscode,vercel,java" />
+    <img src="https://skillicons.dev/icons?i=react,js,redux,jest,html,css,sass,tailwind,nextjs,vite,firebase,git,vscode,vercel,java&theme=light" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nextjs,vite,firebase,git,vercel,java,c,postman&perline=8)](https://skillicons.dev) -->
