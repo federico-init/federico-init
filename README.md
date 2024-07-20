@@ -20,7 +20,7 @@
 ----
 
 <h3 align="left">💻 Languages & Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,redux,jest,html,css,sass,tailwind,nextjs,vite,firebase,git,vscode,vercel,java&theme=light" />
   </a>
@@ -38,7 +38,7 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=200" />
   </a> -->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=150" />
   </a>
@@ -47,9 +47,11 @@
   </a>
 </div>
 
+----
 <h3 align="left">Watch my contribution graph get eaten by the snake 🐍</h3>
 
-![snake gif](https://github.com/federico-init/federico-init/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/federico-init/federico-init/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <!-- ----
