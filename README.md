@@ -11,16 +11,16 @@
 ----
 
 <h3 align="left"> 🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/federico-borrometi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+
+<a href="https://www.linkedin.com/in/federico-borrometi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 
 ----
 
 <h3 align="left">💻 Languages & Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,redux,jest,html,css,sass,tailwind,nextjs,vite,firebase,git,vscode,vercel,java&theme=light" />
   </a>
@@ -38,7 +38,7 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=200" />
   </a> -->
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=federico-init&hide=stars&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&card_width=150" />
   </a>
@@ -46,6 +46,11 @@
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federico-init&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=320"     />
   </a>
 </div>
+
+<h3 align="left">Watch my contribution graph get eaten by the snake 🐍</h3>
+
+![snake gif](https://github.com/federico-init/federico-init/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- ----
 <details>
