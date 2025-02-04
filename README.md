@@ -3,10 +3,10 @@
 
 
 
-<h3 align="left">💫 About Me:</h3>
+<!-- <h3 align="left">💫 About Me:</h3>
 <p align="left">🌱 I’m currently studying: Redux Toolkit<br>
 💬 Ask me about: React & Javascript<br>
-⚡ Fun fact: I've got a boating license</p>
+⚡ Fun fact: I've got a boating license</p>  -->
 
 ----
 
